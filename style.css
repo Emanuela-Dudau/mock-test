@@ -1,6 +1,4 @@
-body	{
-	margin:auto;
-}
+
 div	{
 	width: 350px;
 	min-height: 300px;
@@ -32,6 +30,7 @@ p	{
 }
 body  {
   background-image: "background.jpg";
+  margin: auto;
 
 }
 a	{
