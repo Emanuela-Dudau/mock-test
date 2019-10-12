@@ -1,0 +1,53 @@
+div	{
+	width: 350px;
+	min-height: 300px;
+	border:10px solid black;
+	padding: 5%;
+	margin: 1%;
+}
+
+#d1	{
+	
+	background-color:snow;
+	float: left;
+	
+}
+
+
+#d2	{
+	background-color:honeydew;
+	float: left;
+}
+#d3	{
+	background-color: snow;
+	float: left;
+	
+	
+}
+p	{
+	font-size: 25px;
+}
+body  {
+  background-image: "background.jpg";
+
+}
+a	{
+	color: forestgreen;
+}
+
+h1	{
+	
+	font-family: Arial;
+}
+h2	{
+	font-family:	Arial;
+	
+}
+h3	{
+	font-family: Arial;
+	font-size: 25px;
+}
+a	{
+	font-family: Arial;
+	font-size: 20px;
+}
