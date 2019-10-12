@@ -4,24 +4,24 @@ div	{
 	min-height: 300px;
 	border:10px solid black;
 	padding: 5%;
-	margin: 1%;
+	margin: 10%;
 }
 
 #d1	{
-	
+	margin: auto;
 	background-color:snow;
-
-	
+	margin-bottom: 10%;
 }
 
 
 #d2	{
 	background-color:honeydew;
-	
+	margin: auto;
+	margin-bottom: 10%;
 }
 #d3	{
 	background-color: snow;
-	
+	margin: auto;
 	
 	
 }
